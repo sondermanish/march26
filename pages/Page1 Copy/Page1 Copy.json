@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "67e3a20ccb4133114940d92d_be3ee41f-f9db-40e3-a182-83ca13e2d8ec",
+  "gitSyncId": "68b9dd797ff8580f2e589d05_19bddb2e-5927-4dfe-a67c-c3b168696e68",
   "unpublishedPage": {
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 610,
+          "bottomRow": 760,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Page1 Copy",
+    "slug": "page1-copy"
   }
 }

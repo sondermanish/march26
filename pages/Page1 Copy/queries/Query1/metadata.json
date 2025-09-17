@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "68b9dd797ff8580f2e589d05_1644b274-93f4-4007-af01-ed0306ed77a6",
-  "id": "Page1_Query1",
+  "gitSyncId": "68b9dd797ff8580f2e589d05_d2f546dd-071c-4bbb-a471-84e2af250734",
+  "id": "Page1 Copy_Query1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -24,8 +24,8 @@
     },
     "dynamicBindingPathList": [],
     "name": "Query1",
-    "pageId": "Page1",
-    "runBehaviour": "MANUAL",
+    "pageId": "Page1 Copy",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
