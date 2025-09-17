@@ -1,0 +1,1 @@
+select * from public.users Limit {{Input1.text}};
